@@ -52,17 +52,17 @@ const lyrics = [
   },
   {
     text: "Thori Saanson Mein Ghar Hai Mila",
-    delay: 1500,
+    delay: 1200,
     duration: 4000,
     anim: 2.5,
   },
-  { text: "Vaaroon Vaaroon", delay: 1600, duration: 4000, anim: 2.5 },
+  { text: "Vaaroon Vaaroon", delay: 1200, duration: 4000, anim: 2.5 },
 
-  { text: "Main Vaaroon Thori", delay: 1700, duration: 4000, anim: 2.5 },
+  { text: "Main Vaaroon Thori", delay: 1200, duration: 4000, anim: 2.5 },
 
   {
     text: "Ab Na Jag Ki Hai Parvaah Koi",
-    delay: 600,
+    delay: 1200,
     duration: 4000,
     anim: 2.5,
   },
