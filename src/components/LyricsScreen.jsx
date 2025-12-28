@@ -56,13 +56,17 @@ const lyrics = [
     duration: 4000,
     anim: 2.5,
   },
-  { text: "Vaaroon Vaaroon", delay: 1200, duration: 4000, anim: 2.5 },
 
-  { text: "Main Vaaroon Thori", delay: 1200, duration: 4000, anim: 2.5 },
+  {
+    text: "Vaaroon Vaaroon Main Vaaroon Thori",
+    delay: 600,
+    duration: 4000,
+    anim: 2.5,
+  },
 
   {
     text: "Ab Na Jag Ki Hai Parvaah Koi",
-    delay: 1200,
+    delay: 600,
     duration: 4000,
     anim: 2.5,
   },
